@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HikeMazmanyan
-- 👀 I’m interested in Containerization, Automation, IoT
-- 🌱 I’m currently learning Docker, Kubernetes, Terraform
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning everything related to devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
